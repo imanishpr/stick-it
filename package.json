@@ -1,0 +1,11 @@
+{
+  "name": "project-root",
+  "version": "1.0.0",
+  "description": "Sample Node.js project with DynamoDB integration",
+  "main": "src/index.js",
+  "dependencies": {
+    "aws-sdk": "^2.814.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
